@@ -1,0 +1,44 @@
+
+body{
+    max-width: 90%;
+    margin-left:220px;
+    background-color: gold;
+    background-image: url("china1.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+header > h1{
+    background-color: gold;
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: larger;
+    color: #000066;
+}
+q{
+    font-style: italic;
+}
+a{
+    background-color: lightcyan;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    color: darkmagenta;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.villagers{
+    color: red;
+}
+.farmer{
+    color: green;
+}
+
+
+
